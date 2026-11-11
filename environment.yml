@@ -1,0 +1,14 @@
+name: datajam-2026
+channels:
+  - esri
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - xarray
+  - pandas
+  - matplotlib
+  - cartopy
+  - netcdf4
+  - ipykernel
+  - arcgis
